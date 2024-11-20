@@ -9,3 +9,7 @@ P
  contracts/market-resolution.clar,c/2/c220c5cc33e867c256629180167d5abcca7f657a
 K
 tests/event-betting.test.ts,1/b/1bb54a3fb46eda362317cb0487953ea1ee70c47e
+P
+ tests/oracle-integration.test.ts,d/9/d911e52590341c73366408bb88f631058d938a42
+O
+tests/market-resolution.test.ts,7/6/7697b10ab1cc6c3366e706a637829b8b3a2c1119
