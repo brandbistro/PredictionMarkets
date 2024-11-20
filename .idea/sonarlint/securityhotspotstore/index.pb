@@ -7,3 +7,5 @@ Q
 !contracts/oracle-integration.clar,c/f/cfe2d8e10076c85555fef8cfe8a5af27bea70bef
 P
  contracts/market-resolution.clar,c/2/c220c5cc33e867c256629180167d5abcca7f657a
+K
+tests/event-betting.test.ts,1/b/1bb54a3fb46eda362317cb0487953ea1ee70c47e
